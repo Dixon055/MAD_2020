@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "574701976890",
+    "firebase_url": "https://dixon-93949.firebaseio.com",
+    "project_id": "dixon-93949",
+    "storage_bucket": "dixon-93949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574701976890:android:8b6dea5c50afe11a6aa403",
+        "android_client_info": {
+          "package_name": "com.example.dixon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574701976890-qgo63li89a38mo4qhbhft0q6i8hnjj61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_UAALYbe8UqvlKgYEWVTHgAE-lQTPco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574701976890-qgo63li89a38mo4qhbhft0q6i8hnjj61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
